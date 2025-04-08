@@ -1,17 +1,17 @@
-# Nome do projeto
+# Gestão de Tempo
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
 `DISCIPLINA: Trabalho Interdisciplinar Aplicações Web`
 
-`Xº semestre/ANO`
+`1º semestre/2025`
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Caio Vitor 
+* Wallison Junio
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
