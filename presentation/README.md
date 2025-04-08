@@ -1,11 +1,14 @@
 # Apresentação do projeto
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
+<span style[o (1).pdf](https://github.com/user-attachments/files/19655872/o.1.pdf)
+="co[o (1).pdf](https://github.com/user-attachments/files/19655871/o.1.pdf)
+lor:red">Pré-requisitos: Todos os demais artefatos</span>
 
 
 ## Slides
 
-Coloque aqui o conjunto de slides.
+Coloque aqui o conjunto de slides. 
+[o (1).pdf](https://github.com/user-attachments/files/19655879/o.1.pdf)
 
 > O arquivo deve estar no formato PDF e conter a apresentação completa do projeto, abordando todos os itens trabalhados nos demais artefatos. 
 
