@@ -1,43 +1,37 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto “Gerencie seu tempo” tem como objetivo auxiliar os usuários na administração eficiente de suas rotinas, promovendo maior produtividade e bem-estar. Em um cenário onde a sobrecarga de tarefas e distrações constantes afetam a capacidade de foco, a proposta busca oferecer uma ferramenta prática e acessível para o planejamento e controle de atividades diárias. A aplicação permitirá a criação de listas de tarefas com horários definidos, lembretes para hábitos saudáveis como beber água, praticar exercícios e meditar, além de funcionalidades que auxiliem na redução de distrações. Dessa forma, pretende-se proporcionar aos usuários um equilíbrio entre trabalho e vida pessoal, promovendo uma rotina mais organizada e saudável.
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
-
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Atualmente, muitas pessoas enfrentam dificuldades para iniciar ou concluir tarefas prioritárias. Essa situação está frequentemente ligada à ansiedade provocada por atividades mais complexas, o que leva o cérebro a buscar tarefas mais prazerosas e menos exigentes, como checar redes sociais ou responder mensagens irrelevantes. Esse comportamento resulta em perda de tempo e baixa produtividade. O desafio, portanto, é criar uma solução que ajude os usuários a superarem esses obstáculos e a manterem o foco em suas responsabilidades. O contexto de uso da aplicação inclui tanto ambientes pessoais quanto profissionais, e será baseada em tecnologias acessíveis, como sistemas de autenticação de usuários, agendamento de tarefas, notificações e relatórios de desempenho. Ferramentas como o Design Thinking podem ser utilizadas pela equipe para aprofundar a compreensão desse problema e suas diversas nuances.
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O objetivo geral do projeto é desenvolver um sit capaz de auxiliar os usuários na organização da rotina, priorização de tarefas e aumento da produtividade pessoal e profissional.
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Para alcançar esse propósito, foram definidos os seguintes objetivos específicos:
+
+1- Criar um sistema que permita o planejamento e o agendamento de tarefas com horários definidos.
+
+2- Desenvolver funcionalidades de lembretes e notificações que incentivem a prática de hábitos saudáveis.
+
+3- Implementar relatórios que possibilitem a análise do desempenho do usuário ao longo do tempo.
+
+4- Oferecer uma interface amigável e flexível, que permita ao usuário editar, reagendar ou remover tarefas com facilidade.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A escolha desse tema se justifica pela relevância do problema enfrentado por grande parte da população: a dificuldade de gerenciar bem o tempo. Essa limitação impacta diretamente na qualidade de vida, na produtividade e na saúde mental das pessoas. Ao propor uma ferramenta que facilite a organização da rotina e promova hábitos positivos, o projeto busca oferecer uma solução concreta e eficaz para esse desafio. A motivação também se apoia na versatilidade da aplicação, que pode ser útil tanto para estudantes quanto para profissionais em diferentes áreas. Com o apoio de dados, entrevistas e questionários, pretende-se validar a importância da solução e refinar o desenvolvimento da ferramenta com base nas reais necessidades dos usuários.
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação, mas sim oferecer uma visão detalhada do perfil de cada grupo de usuários. Isso inclui informações sobre seu nível de conhecimento prévio, familiaridade com tecnologia, e suas relações hierárquicas ou contextos de uso. Dessa forma, será possível entender melhor as necessidades e expectativas dos diferentes tipos de usuários, garantindo uma experiência mais eficiente e adaptada.
+A aplicação é voltada para pessoas que desejam melhorar sua produtividade e organização pessoal ou profissional. O público-alvo inclui:
 
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Estudantes que precisam gerenciar melhor seus horários de estudo.
+
+Profissionais com múltiplas demandas e compromissos diários.
+
+Pessoas que buscam equilíbrio entre vida pessoal e trabalho, incorporando hábitos saudáveis à rotina.
+
+Esse grupo de usuários pode apresentar níveis variados de familiaridade com tecnologia. Por isso, a interface da aplicação será desenvolvida com foco em usabilidade, garantindo acessibilidade e facilidade de uso para todos os perfis, independentemente do seu conhecimento técnico.
